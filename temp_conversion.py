@@ -12,6 +12,7 @@ def convert_100_to_celsius():
     print(float)
     # it is a float because 37.7 cannot be an interger due to it being a decimal.
 convert_100_to_celsius()
+
 def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius
     # Save this to a variable called celsius_0, and use print() to print out the value
@@ -26,6 +27,7 @@ def convert_34_2_to_celsius():
     celsius_34_2 = (34.2 - 32) * 5 / 9
     print(celsius_34_2)
 convert_34_2_to_celsius()    
+
 '''
 Now, can you convert back?
 '''

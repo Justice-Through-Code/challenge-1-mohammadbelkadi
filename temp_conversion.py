@@ -9,7 +9,7 @@ def convert_100_to_celsius():
     print('celsius_100')
     print(celsius_100)
     print('float')
-    # it is a float because 37.7 cannot be an interger due to it being a decimal.
+    # it is a float because 37.7 cannot be an interger due to it being a decimal
 
 def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius

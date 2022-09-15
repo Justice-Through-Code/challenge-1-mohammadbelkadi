@@ -8,7 +8,7 @@ def convert_100_to_celsius():
     celsius_100 = (100 - 32) * 5 / 9
     print('celsius_100')
     print(celsius_100)
-    print(float)
+    print('float')
     # it is a float because 37.7 cannot be an interger due to it being a decimal.
 
 def convert_0_to_celsius():

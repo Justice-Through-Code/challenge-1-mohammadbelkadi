@@ -42,3 +42,11 @@ def hotter_temp():
    print('30.2 degrees celsius')
 hotter_temp() 
 
+celsius = float(input("Enter temperature in celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print('%.2f Celsius is: %0.2f Fahrenheit' %(celsius, fahrenheit))
+
+
+temp = float(input("Enter temperature in Fahrenheit: "))
+celsius = (temp - 32) * 5/9
+print(f"{temp} in Fahrenheit is equal to {celsius} in Celsius")
